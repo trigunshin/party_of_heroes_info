@@ -306,6 +306,17 @@ var base_hero_stats = {
     "health" : 105,
     "dmg" : 15,
     "armor" : 10
+  },
+  "Wyvern": {
+    "name" : "Wyvern",
+    "hero_type" : "Mystic",
+    "melee" : 5,
+    "ranged" : 4,
+    "mystic" : 4,
+    "total" : 13,
+    "health" : 200,
+    "dmg" : 20.6,
+    "armor" : 200
   }
 };
 var hero_levels = [
