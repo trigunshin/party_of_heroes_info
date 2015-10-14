@@ -315,7 +315,7 @@ var base_hero_stats = {
     "mystic" : 4,
     "total" : 13,
     "health" : 200,
-    "dmg" : 20.6,
+    "dmg" : 20.32659353503497,
     "armor" : 200
   }
 };
